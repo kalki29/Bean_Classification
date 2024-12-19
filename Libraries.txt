@@ -1,0 +1,13 @@
+Mandatory Requirements
+
+Python 3.6 or later
+TensorFlow==2.15.0
+pandas 
+NumPy 
+scikit-learn
+tensor Board
+matplotlib
+stream lit
+sci Kera's
+IDE Setup
+Virtual Environment Anaconda
